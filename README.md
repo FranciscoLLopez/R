@@ -9,8 +9,6 @@ Second one, about analysis a data frame.
 ## Exercise 2
 Data processing.
 ### Clustering methods.
-Hierarchical clustering
-KMeans
+Hierarchical clustering and KMeans.º
 ### Prediction methods.
-Recursive Partitioning and Regression Trees.
-Neural networks.
+Recursive Partitioning and Regression Trees and Neural networks.
